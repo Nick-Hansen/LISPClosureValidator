@@ -1,0 +1,16 @@
+C:\Users\M740040\Documents\git\LISPClosureValidator\bin\Debug\net5.0\LISPClosureValidator.exe
+C:\Users\M740040\Documents\git\LISPClosureValidator\bin\Debug\net5.0\LISPClosureValidator.deps.json
+C:\Users\M740040\Documents\git\LISPClosureValidator\bin\Debug\net5.0\LISPClosureValidator.runtimeconfig.json
+C:\Users\M740040\Documents\git\LISPClosureValidator\bin\Debug\net5.0\LISPClosureValidator.runtimeconfig.dev.json
+C:\Users\M740040\Documents\git\LISPClosureValidator\bin\Debug\net5.0\LISPClosureValidator.dll
+C:\Users\M740040\Documents\git\LISPClosureValidator\bin\Debug\net5.0\ref\LISPClosureValidator.dll
+C:\Users\M740040\Documents\git\LISPClosureValidator\bin\Debug\net5.0\LISPClosureValidator.pdb
+C:\Users\M740040\Documents\git\LISPClosureValidator\obj\Debug\net5.0\LISPClosureValidator.csproj.AssemblyReference.cache
+C:\Users\M740040\Documents\git\LISPClosureValidator\obj\Debug\net5.0\LISPClosureValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M740040\Documents\git\LISPClosureValidator\obj\Debug\net5.0\LISPClosureValidator.AssemblyInfoInputs.cache
+C:\Users\M740040\Documents\git\LISPClosureValidator\obj\Debug\net5.0\LISPClosureValidator.AssemblyInfo.cs
+C:\Users\M740040\Documents\git\LISPClosureValidator\obj\Debug\net5.0\LISPClosureValidator.csproj.CoreCompileInputs.cache
+C:\Users\M740040\Documents\git\LISPClosureValidator\obj\Debug\net5.0\LISPClosureValidator.dll
+C:\Users\M740040\Documents\git\LISPClosureValidator\obj\Debug\net5.0\ref\LISPClosureValidator.dll
+C:\Users\M740040\Documents\git\LISPClosureValidator\obj\Debug\net5.0\LISPClosureValidator.pdb
+C:\Users\M740040\Documents\git\LISPClosureValidator\obj\Debug\net5.0\LISPClosureValidator.genruntimeconfig.cache
